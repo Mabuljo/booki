@@ -1,4 +1,4 @@
-Dans ce projet, avait pour but de créer la page d'accueil d'une agence de voyage "Booki" en utilisant HTML et CSS. 
+Ce projet, avait pour but de créer la page d'accueil d'une agence de voyage "Booki" en utilisant HTML et CSS. 
 
 La mission principale était d'intégrer l'interface responsive du site en ayant à disposition les maquettes Figma pour mobile, tablette et desktop, ainsi que les images et une note de synthèse sur les spécificités du projet.
 
